@@ -1,2 +1,3 @@
-=Sample App=
-==Roberto Martinez==
+Sample App
+=========
+Roberto Mtz
